@@ -1,1 +1,1 @@
-# audrino-home-automation
+# arduino-home-automation
